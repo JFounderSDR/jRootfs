@@ -12,19 +12,14 @@
 ## 资源目录说明  
 
 ```
-jiefang
-│   
-│       
+ROOT
 │
 └───根文件系统
 |   |    ubuntu_user_base_rootfs.tar
 │   │    ubuntu-2019-6-10-jRootfs.tar
 |   |    ubuntu-2019-6-11-jRootfs.tar
-|      
-│     
-│   
-│   
-│       
+|   |    ubuntu-2019-7-11-jRootfs.tar.gz
+|
 └──toolchain───GCC
              │   |   
              |   |
