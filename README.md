@@ -4,7 +4,7 @@
 ## 下载镜像文件
  [下载链接](https://pan.baidu.com/s/1xDd23e0vy_9NyTiGJP1yRQ)<br>
 
- 密码：< qv67>
+ 密码：< qv67 >
 ## 操作说明
 1. 解压文件 tar -xf 文件名<br>
 2. 拷贝到启动目录
@@ -18,7 +18,8 @@ ROOT
 |   |    ubuntu_user_base_rootfs.tar
 │   │    ubuntu-2019-6-10-jRootfs.tar
 |   |    ubuntu-2019-6-11-jRootfs.tar
-|   |    ubuntu-2019-7-11-jRootfs.tar.gz
+|   |    ubuntu-2019-8-7-jRootfs.tar.gz
+|   |
 |
 └──toolchain───GCC
              │   |   
