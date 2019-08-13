@@ -26,14 +26,14 @@ ROOT
              |   |
              |   |
              |   |───────WIN32
-             |   |          | gcc-linaro-7.4.1-2019.02-i686-mingw32_arm-linux-gnueabihf.tar.xz
+             |   |          | gcc-linaro-6.5.0-2018.12-i686-mingw32_arm-linux-gnueabihf.tar.xz
              |   |
              |   |   
              |   |
              |   |───────Linux
-             |              | gcc-linaro-7.4.1-2019.02-i686_arm-linux-gnueabihf.tar.xz
-             |              | gcc-linaro-7.4-2019.02.tar.xz
-             |              | sysroot-glibc-linaro-2.25-2019.02-arm-linux-gnueabihf.tar.xz 
+             |              | gcc-linaro-6.5.0-2018.12-i686_arm-linux-gnueabihf.tar.xz
+             |              | gcc-linaro-6.5.0-2018.12-x86_64_arm-linux-gnueabihf.tar.xz
+             |              | sysroot-glibc-linaro-2.23-2018.12-arm-linux-gnueabihf.tar.xz 
              |
              │────SDK  
 ```
