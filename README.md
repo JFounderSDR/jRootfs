@@ -1,5 +1,5 @@
-# jRootfs
-本项目基于ubuntu_core(16.04)进行开发，完全支持jLabSDR无线电实验平台<br>
+# jRootfs&Toolchains
+本项目基于ubuntu_core(16.04)进行开发，完全支持jLabSDR无线电实验平台，该项目的所有资源均存放在百度云网盘，主要包含jLinux用到的根文件系统以及编译工具。<br>
 
 ## 下载镜像文件
  [下载链接](https://pan.baidu.com/s/1xDd23e0vy_9NyTiGJP1yRQ)<br>
