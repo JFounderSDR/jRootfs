@@ -9,7 +9,13 @@
 1. 解压文件 tar -xf 文件名<br>
 2. 拷贝到启动目录
 
-## 资源目录说明  
+## 资源目录说明   
+ubuntu_user_base_rootfs.tar                        原始版本 <br>
+ubuntu-2019-6-10-jRootfs.tar <br>
+ubuntu-2019-6-11-jRootfs.tar <br>
+ubuntu-2019-8-7-jRootfs.tar.gz                     基于jLabSDR定制内容<br>  
+ubuntu-2019-11-22-jRootfs.tar.gz                   加入telnet 和 libstdc++.so.6.0.22库<br>
+
 
 ```
 ROOT
@@ -19,6 +25,7 @@ ROOT
 │   │    ubuntu-2019-6-10-jRootfs.tar
 |   |    ubuntu-2019-6-11-jRootfs.tar
 |   |    ubuntu-2019-8-7-jRootfs.tar.gz
+|   |    ubuntu-2019-11-22-jRootfs.tar.gz
 |   |
 |
 └──toolchain───GCC
