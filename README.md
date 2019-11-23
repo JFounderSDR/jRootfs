@@ -10,11 +10,15 @@
 2. 拷贝到启动目录
 
 ## 资源目录说明   
-ubuntu_user_base_rootfs.tar                        原始版本 <br>
+ubuntu_user_base_rootfs.tar  原始版本 <br> 
+
 ubuntu-2019-6-10-jRootfs.tar <br>
+
 ubuntu-2019-6-11-jRootfs.tar <br>
-ubuntu-2019-8-7-jRootfs.tar.gz                     基于jLabSDR定制内容<br>  
-ubuntu-2019-11-22-jRootfs.tar.gz                   加入telnet 和 libstdc++.so.6.0.22库<br>
+
+ubuntu-2019-8-7-jRootfs.tar.gz 基于jLabSDR定制内容 <br>  
+
+ubuntu-2019-11-22-jRootfs.tar.gz                   加入telnet 和 libstdc++.so.6.0.22库,如果出现telnet登录慢的问题，请修改 /etc/resolv.con 下的DNS服务器<br>
 
 
 ```
